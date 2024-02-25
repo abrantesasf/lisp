@@ -72,7 +72,7 @@
 
 ;;; The following lines added by ql:add-to-init-file:
 #-quicklisp
-(let ((quicklisp-init (merge-pathnames ".lisp/cmucl/quicklisp/setup.lisp"
+(let ((quicklisp-init (merge-pathnames "repositoriosGit/lisp/cmucl/quicklisp/setup.lisp"
                                        (user-homedir-pathname))))
   (when (probe-file quicklisp-init)
     (load quicklisp-init)))
