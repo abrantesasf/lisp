@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=8.12
+Name=Racket
+Comment=Racket Lang
+Exec=/opt/racket/bin/drracket
+Icon=/opt/racket/share/drracket-exe-icon.png
+Terminal=false
+Categories=Development
