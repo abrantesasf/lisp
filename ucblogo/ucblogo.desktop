@@ -1,0 +1,17 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Name=UCB Logo
+GenericName=UCB Logo
+Comment=Berkeley Logo
+MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
+Exec=/opt/ucblogo/bin/ucblogo
+Icon=/opt/ucblogo/share/icons/hicolor/256x256/apps/ucblogo.png
+Type=Application
+Terminal=false
+Categories=
+Keywords=Logo;
+Name[en_US]=UCB Logo
+NoDisplay=false
+Hidden=false
