@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/abrantesasf/.lisp/mit-scheme/mit_scheme.jpg
+Exec=/opt/mit-scheme/bin/mit-scheme --load /home/abrantesasf/.edwin-start
+Name=Edwin 12.1
+GenericName=MIT Scheme Editor
+Comment=Edwin is an editor for MIT Scheme

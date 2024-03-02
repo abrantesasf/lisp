@@ -1,0 +1,4 @@
+;; Carega o Edwin, mas somente após a MIT/Scheme carregar as
+;; definições em .scheme.init (sim, é uma gambiarra, mas fuciona!).
+
+(edit)
