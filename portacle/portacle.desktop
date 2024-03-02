@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Portacle
+Comment=Portacle Common Lisp IDE
+#Exec=bash -c 'cd $(dirname %k) && ./portacle.run'
+Exec=bash -c 'cd /opt/portacle && ./portacle.run'
+Icon=/opt/portacle/portacle.svg
+Terminal=false
+Categories=Development;Common Lisp;Lisp;Text Editor
