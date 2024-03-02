@@ -1,10 +1,1 @@
-;;----------------------------------------------------------------------------;;
-;; Configuração básica para o Simply Scheme
-;;----------------------------------------------------------------------------;;
-
-;; Cria procedimento para carregar as bibliotecas de funções do livro:
-(define (pre-sicp arquivo)
-  (load (string-append "/home/abrantesasf/repositoriosGit/lisp/harvey/" arquivo)))
-
-(define (harvey arquivo)
-  (load (string-append "/home/abrantesasf/repositoriosGit/lisp/harvey/" arquivo)))
+dot_scheme.init
